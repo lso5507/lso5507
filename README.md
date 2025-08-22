@@ -10,7 +10,7 @@
   <a href="mailto:leeseokwoon@naver.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-contact-blue?logo=gmail">
   </a>
-  <a href="https://https://dev-swlee.tistory.com/">
+  <a href="https://dev-swlee.tistory.com/">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-tech%20notes-informational?logo=githubpages">
   </a>
 </p>
