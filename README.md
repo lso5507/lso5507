@@ -1,7 +1,12 @@
 
 <!-- 필요 시 라이선스/연락처 등 하단에 배치한다 -->
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/lso5507?pet-id=1" width="1000" height="120"/>
+</a>
+-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/lso5507"/>
 </a>
 
 <p align="center">
