@@ -1,5 +1,5 @@
 
-<h1 align="center">백엔드 / LeeSeokWoon </h1>
+<h1 align="center">Backend / LeeSeokWoon </h1>
 <!-- 필요 시 라이선스/연락처 등 하단에 배치한다 -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/lso5507?pet-id=1" width="1000" height="120"/>
@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 <!-- skillicons.dev 아이콘 목록은 필요에 맞게 조정한다 -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,6 +28,4 @@
   <!-- 사용 언어 카드(참고: 저장소 규모에 따라 편향될 수 있다) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lso5507&layout=compact&langs_count=8&theme=tokyonight" height="165" />
 </p>
-
----
 
