@@ -1,3 +1,37 @@
+
+<h1 align="center">백엔드 / LeeSeokWoon </h1>
+<!-- 필요 시 라이선스/연락처 등 하단에 배치한다 -->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/lso5507?pet-id=1" width="1000" height="120"/>
 </a>
+
+<p align="center">
+  <!-- 연락/링크 배지 -->
+  <a href="mailto:leeseokwoon@naver.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-contact-blue?logo=gmail">
+  </a>
+  <a href="https://https://dev-swlee.tistory.com/">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-tech%20notes-informational?logo=githubpages">
+  </a>
+</p>
+
+---
+
+### ⚙️ Backend Tech Stack
+<!-- skillicons.dev 아이콘 목록은 필요에 맞게 조정한다 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,maven,python,django,fastapi,go,nodejs,express,nestjs,postgres,mysql,redis,mongodb,kafka,docker,kubernetes,aws,azure,gcp&perline=9" />
+  </a>
+</p>
+
+### 📊 GitHub 지표
+<p align="center">
+  <!-- 전체 통계 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lso5507&show_icons=true&theme=tokyonight" height="165" />
+  <!-- 사용 언어 카드(참고: 저장소 규모에 따라 편향될 수 있다) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lso5507&layout=compact&langs_count=8&theme=tokyonight" height="165" />
+</p>
+
+---
+
