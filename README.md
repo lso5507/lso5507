@@ -5,9 +5,11 @@
   <img src="https://render.gitanimals.org/lines/lso5507?pet-id=1" width="1000" height="120"/>
 </a>
 -->
-<a href="https://github.com/devxb/gitanimals" style="display: flex;justify-content: center;">
-<img  src="https://render.gitanimals.org/farms/lso5507"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/lso5507"/>
+  </a>
+</p>
   
 
 
