@@ -17,7 +17,6 @@
 
 ---
 
-### ⚙️ Backend Tech Stack
 <!-- skillicons.dev 아이콘 목록은 필요에 맞게 조정한다 -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +24,6 @@
   </a>
 </p>
 
-### 📊 GitHub 지표
 <p align="center">
   <!-- 전체 통계 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=lso5507&show_icons=true&theme=tokyonight" height="165" />
