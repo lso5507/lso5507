@@ -11,7 +11,6 @@
   </a>
 </p>
   
-![snake gif](https://github.com/lso5507/lso5507/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <!-- 연락/링크 배지 -->
@@ -37,3 +36,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lso5507&layout=compact&langs_count=8&theme=tokyonight" height="165" />
 </p>
 
+![snake gif](https://github.com/lso5507/lso5507/blob/output/github-contribution-grid-snake.svg)
