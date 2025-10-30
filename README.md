@@ -11,7 +11,7 @@
   </a>
 </p>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lso5507)](https://git.io/streak-stats)
+![snake gif](https://github.com/lso5507/lso5507/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <!-- 연락/링크 배지 -->
