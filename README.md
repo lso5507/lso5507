@@ -29,11 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- 전체 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lso5507&show_icons=true&theme=tokyonight" height="165" />
-  <!-- 사용 언어 카드(참고: 저장소 규모에 따라 편향될 수 있다) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lso5507&layout=compact&langs_count=8&theme=tokyonight" height="165" />
-</p>
+
 
 ![snake gif](https://github.com/lso5507/lso5507/blob/output/github-contribution-grid-snake.svg)
